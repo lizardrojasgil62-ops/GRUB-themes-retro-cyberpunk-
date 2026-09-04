@@ -1,7 +1,7 @@
  # GRUB-themes-retro-cyberpunk-
 Most liked gtub themes from github and gnome look.
-| Tema | Repo / Enlace | 
-|------|---------------|
+| Tema |
+|------|
 | [CyberGRUB-2077](https://github.com/adnksharp/CyberGRUB-2077/blob/base/README.es.md)
 | ![preview](https://github.com/adnksharp/CyberGRUB-2077/raw/base/preview.png)
 | [Fallout](https://www.gnome-look.org/p/1230882) 
